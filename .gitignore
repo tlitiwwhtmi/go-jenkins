@@ -1,0 +1,6 @@
+go-jenkins.exe
+go-jenkins
+*.log
+*.out
+/.idea
+.DS_Store
